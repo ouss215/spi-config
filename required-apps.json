@@ -15,6 +15,6 @@
     "name": "SABIS® ITL",
     "package": "net.sabis.sisitlstudent",
     "version": "4.0",
-    "source": "play"
+    "source": "url"
   }
 ]
