@@ -3,14 +3,18 @@
     "name": "SABIS® E-books",
     "package": "net.sabis.mobilelms",
     "version": "3.10.30",
-    "size": "58 MB",
     "source": "play"
   },
   {
     "name": "SABIS® Keyboard",
     "package": "auth.keyboard.ses.sabiskeyboard",
     "version": "1.7",
-    "size": "58 MB",
+    "source": "play"
+  }
+  {
+    "name": "SABIS® ITL",
+    "package": "net.sabis.sisitlstudent",
+    "version": "4.0",
     "source": "play"
   }
 ]
