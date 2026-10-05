@@ -10,7 +10,7 @@
     "package": "auth.keyboard.ses.sabiskeyboard",
     "version": "1.7",
     "source": "play"
-  }
+  },
   {
     "name": "SABIS® ITL",
     "package": "net.sabis.sisitlstudent",
