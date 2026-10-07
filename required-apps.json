@@ -14,7 +14,7 @@
   {
     "name": "SABIS® ITL",
     "package": "net.sabis.sisitlstudent",
-    "version": "4.2",
+    "version": "4.0",
     "source": "url",
     "url":"https://sabis.omatechnology.net/download/SABIS-ITL-prod-4.0.apk"
   }
